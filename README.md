@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Kushal Arora
 
-<!--
-**Kushal-Arora1907/Kushal-Arora1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in Coding and Building Projects
 
-Here are some ideas to get you started:
+🎯 Aspiring Full Stack Developer | MERN Stack | Java | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me - kusharora19072001@gmail.com
+
+😄 Pronouns: He/Him
+
+## 💻 Tech Stack:
+- **Languages:** JavaScript, Java, Python, HTML5, CSS3  
+- **Frameworks/Libraries:** React, Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, Postman, VS Code  
+- **Concepts:** REST APIs, Responsive Design, CRUD, Agile, SDLC
